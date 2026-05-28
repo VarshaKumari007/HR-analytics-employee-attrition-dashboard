@@ -80,7 +80,8 @@ The dataset contains HR employee information including:
 
 ---
 
-## 🚀 Project Outcome<img width="1654" height="969" alt="Screenshot 2026-05-28 133525" src="https://github.com/user-attachments/assets/9dfc0f49-ccd3-40b3-976d-445abd96faa6" />
+## 🚀 Project Outcome<img width="1654" height="969" alt="Screenshot 2026-05-28 133525" src="https://github.com/user-attachments/assets/9dfc0f49-ccd3-40b3-976d-445abd96faa6" /> <img width="1712" height="969" alt="Screenshot 2026-05-28 112608" src="https://github.com/user-attachments/assets/34670765-1cfc-40f9-9a07-bf53df024494" />
+
 
 
 This project demonstrates the ability to:
